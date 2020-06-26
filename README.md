@@ -1,2 +1,7 @@
 # code-poetry-git-tutorial
-yutong edited readme
+
+
+A collection of poems written by Cogniters.
+
+Vib starts
+Yutong edits
