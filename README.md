@@ -1,4 +1,5 @@
 # code-poetry-git-tutorial
 
-Vib edits
-Readme
+A collection of poems written by Cogniters.
+
+Vib starts
