@@ -1,4 +1,7 @@
 # code-poetry-git-tutorial
 
-Sangyoon's first edit
+A collection of poems written by Cogniters.
 
+Vib starts
+
+Sangyoon's first edit
